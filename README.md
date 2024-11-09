@@ -19,14 +19,14 @@ I'm a passionate **Software Developer** with a focus on building **Web Applicati
 
 ## Featured Projects 💻
 
-### [Pamoja](https://github.com/jambofy/Pamoja)
+### [Pamoja](https://github.com/nyashaushe/Pamoja)
 
-**Pamoja** is an innovative **web app** designed to streamline business operations in one unified platform. Built with **React, Node.js, and Django**, this project showcases my ability to integrate various technologies into a cohesive user experience. You can explore the repository [here](https://github.com/jambofy/Pamoja).
+**Pamoja** is an innovative **web app** designed to streamline business operations in one unified platform. Built with **React, Node.js, and Django**, this project showcases my ability to integrate various technologies into a cohesive user experience. You can explore the repository [here](https://github.com/nyashaushe/Pamoja).
 
-### [Buildify](https://jambofy.github.io/wdd131/project/buildify.html)
+### [Buildify](https://nyashaushe.github.io/wdd131/project/buildify.html)
 
 
-**Buildify** is a **construction services website** created to market my construction and shop-fitting services. This project showcases a modern design and highlights my ability to build visually engaging, user-friendly web pages for business purposes. Built with **HTML, CSS, and JavaScript**, **Buildify** also demonstrates my skills in creating intuitive layouts and online marketing solutions. You can check out the repository [here](https://github.com/jambofy/buildify).
+**Buildify** is a **construction services website** created to market my construction and shop-fitting services. This project showcases a modern design and highlights my ability to build visually engaging, user-friendly web pages for business purposes. Built with **HTML, CSS, and JavaScript**, **Buildify** also demonstrates my skills in creating intuitive layouts and online marketing solutions. You can check out the repository [here](https://github.com/nyashaushe/buildify).
 
 ## Get in Touch 📬
 
