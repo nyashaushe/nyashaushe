@@ -30,7 +30,7 @@ I'm a passionate **Software Developer** with a focus on building **Web Applicati
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog](your_website_or_blog_link)**
+- **[Personal Website / Blog](https://nyashaushe.github.io/portifolio/)**
 - **[LinkedIn](https://www.linkedin.com/in/nyashaushewokunze)**
 - **[X (Twitter)](https://twitter.com/mrshepard18)**
 - **[Facebook](https://www.facebook.com/nyasha.ushewokunze.33?mibextid=JRoKGi)**
