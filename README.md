@@ -9,7 +9,7 @@ I'm a passionate **Software Developer** with a focus on building **Web Applicati
 - 🌱 Currently learning: **JavaScript**  
 - 🔭 Working on: **Pamoja** - A comprehensive platform for managing all your business operations  
 - 🌍 Languages: **Python, C#, JavaScript**  
-- 📫 Reach out to me: **nushework@gmail.com** | **+263 712 672 820**  
+- 📫 Reach out to me: **mrshepard18@gmail.com** | **+263 712 672 820**  
 - ⚡ Fun fact: **I can play  piano with both hands!**
 
 ## My Skills 🧠
