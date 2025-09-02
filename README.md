@@ -30,12 +30,12 @@ I'm a passionate **Software Developer** with a focus on building **Web Applicati
 
 ### [Colortech](https://colortech.co.zw)
 
-**Color Tech** is a ** Autobody services companny** . This project showcases a modern design and highlights my ability to build visually engaging, user-friendly web pages for business purposes. Built with **HTML, CSS, and JavaScript and Nextjs Framework**, **Color Tech** also demonstrates my skills in creating intuitive layouts and online marketing solutions.
+**Color Tech** is a **Autobody services companny** . This project showcases a modern design and highlights my ability to build visually engaging, user-friendly web pages for business purposes. Built with **HTML, CSS, and JavaScript and Nextjs Framework**, **Color Tech** also demonstrates my skills in creating intuitive layouts and online marketing solutions.
 
 ### [Ruscle Investments ](https://ruscleinvestments.co.zw)
 
 
-**Ruscle Investments** is a ** Expert electrical wiring, repairs, air-conditioning, and refrigeration services company. Modern solutions with guaranteed satisfaction.** . This project showcases a modern design and highlights my ability to build visually engaging, user-friendly web pages for business purposes. Built with **HTML, CSS, and JavaScript and Nextjs Framework**, **Ruscle Investments ** also demonstrates my skills in creating intuitive layouts and online marketing solutions.
+**Ruscle Investments** is a **Expert electrical wiring, repairs, air-conditioning, and refrigeration services company. Modern solutions with guaranteed satisfaction.** . This project showcases a modern design and highlights my ability to build visually engaging, user-friendly web pages for business purposes. Built with **HTML, CSS, and JavaScript and Nextjs Framework**, **Ruscle Investments ** also demonstrates my skills in creating intuitive layouts and online marketing solutions.
 
 ## Get in Touch 📬
 
