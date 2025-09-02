@@ -28,6 +28,10 @@ I'm a passionate **Software Developer** with a focus on building **Web Applicati
 
 **Buildify** is a **construction services website** created to market my construction and shop-fitting services. This project showcases a modern design and highlights my ability to build visually engaging, user-friendly web pages for business purposes. Built with **HTML, CSS, and JavaScript**, **Buildify** also demonstrates my skills in creating intuitive layouts and online marketing solutions. You can check out the repository [here](https://github.com/nyashaushe/buildify).
 
+### [Colortech](https://colortech.co.zw)
+
+### [Ruscle Investments ](https://ruscleinvestments.co.zw)
+
 ## Get in Touch 📬
 
 - **[Personal Website / Blog](https://nyashaushe.github.io/portifolio/)**
